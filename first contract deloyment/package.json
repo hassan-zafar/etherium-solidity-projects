@@ -1,0 +1,7 @@
+{
+    "name": "inbox",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    }
+}

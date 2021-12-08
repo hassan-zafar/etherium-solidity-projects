@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "compile.js",
-
   "directories": {
     "test": "test"
   },
   "dependencies": {
     "ganache-cli": "^6.12.2",
     "solc": "^0.4.26",
+    "truffle-hdwallet-provider": "^1.0.17",
     "web3": "^1.0.0-beta.26"
   },
   "devDependencies": {},
